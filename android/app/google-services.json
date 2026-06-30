@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "751341477140",
+    "firebase_url": "https://sotms-abdullah-new-2026-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sotms-abdullah-new-2026",
+    "storage_bucket": "sotms-abdullah-new-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751341477140:android:2f19364427a77eadb97601",
+        "android_client_info": {
+          "package_name": "com.example.oil_industry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9JoT9N6rTexUl5kQG33adVfYLdT2mwdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
